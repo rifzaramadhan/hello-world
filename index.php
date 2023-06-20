@@ -1,3 +1,3 @@
 <?php
-echo "Hellow";
+echo "Hellow kamu";
 ?>
